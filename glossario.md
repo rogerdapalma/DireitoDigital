@@ -24,6 +24,8 @@ Lei que estabelece penalidades para crimes como invasão de aparelhos eletrônic
 ### Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018)
 Regulamenta o tratamento de dados pessoais, inclusive nos meios digitais, por pessoas naturais ou jurídicas, de direito público ou privado. Visa proteger os direitos fundamentais de liberdade e privacidade, bem como o livre desenvolvimento da personalidade da pessoa natural.
 
+> Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.”
+
 ### Lei Marco Civil da Internet (Lei nº 12.965/2014)
 Estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil. Define critérios para a manutenção da privacidade dos usuários, impondo obrigações a provedores de serviços de internet e outras empresas que lidam com dados pessoais.
 
