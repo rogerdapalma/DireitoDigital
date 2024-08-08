@@ -12,6 +12,9 @@ Prática que visa assegurar que empresas cumpram todas as normas, regulamentaç�
 ### Direito Digital
 Ramo do direito que normatiza e regulamenta o uso dos ambientes digitais, protegendo as informações contidas nesses espaços e em aparelhos eletrônicos. Engloba as relações entre pessoas e a internet, estabelecendo regras para assegurar a privacidade, segurança e uso ético dos dados.
 
+### Direito à Privacidade
+Direito fundamental que protege a vida privada e os dados pessoais dos indivíduos contra intrusões não autorizadas. No contexto digital, é regulamentado por leis como a LGPD, que estabelece normas para o tratamento e a proteção de dados pessoais.
+
 ### Lei
 No contexto do direito digital, uma lei é um conjunto de normas jurídicas estabelecidas por um órgão legislativo competente, que visa regular as atividades e comportamentos no ambiente digital. Essas leis têm o objetivo de proteger os direitos dos usuários, garantir a segurança das informações, estabelecer responsabilidades para provedores de serviços e promover um uso ético e seguro da tecnologia. Exemplos incluem a Lei Geral de Proteção de Dados Pessoais (LGPD) e o Marco Civil da Internet.
 
