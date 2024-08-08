@@ -1,4 +1,4 @@
-# Conseitos Direito Digital
+## Conseitos Direito Digital
 
 ### Lei
 No contexto do direito digital, uma lei é um conjunto de normas jurídicas estabelecidas por um órgão legislativo competente, que visa regular as atividades e comportamentos no ambiente digital. Essas leis têm o objetivo de proteger os direitos dos usuários, garantir a segurança das informações, estabelecer responsabilidades para provedores de serviços e promover um uso ético e seguro da tecnologia. Exemplos incluem a Lei Geral de Proteção de Dados Pessoais (LGPD) e o Marco Civil da Internet.
