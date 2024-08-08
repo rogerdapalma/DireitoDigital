@@ -6,8 +6,6 @@ Conjunto de normas que visa à proteção dos direitos do consumidor, disciplina
 ### Direito Compliance
 Prática que visa assegurar que empresas cumpram todas as normas, regulamentações e leis aplicáveis ao seu setor. No contexto brasileiro, a cultura de compliance está em crescimento, especialmente com a influência de multinacionais que adotam protocolos preventivos para minimizar riscos legais e promover boas práticas, evitando problemas futuros com clientes e órgãos fiscalizadores.
 
-[Direito Compliance](https://www.projuris.com.br/blog/o-que-e-compliance/)
-
 ### Direito Contencioso
 Área do direito que lida com disputas judiciais. No âmbito do direito digital, envolve a representação de pessoas afetadas por vazamento ou roubo de informações pessoais. Exemplos incluem a aplicação da Lei Carolina Dieckmann, que trata de crimes como invasão de dispositivos eletrônicos e vazamento de dados. A área contenciosa também abrange direitos autorais, como o uso indevido de obras na internet sem permissão.
 
@@ -22,7 +20,6 @@ No contexto do direito digital, uma lei é um conjunto de normas jurídicas esta
 
 ### Lei Carolina Dieckmann (Lei nº 12.737/2012)
 Lei que estabelece penalidades para crimes como invasão de aparelhos eletrônicos, interrupção de serviços digitais ou de conexão, e falsificação de documentos ou de cartões de crédito ou débito. Foi assim denominada em razão de um caso envolvendo a atriz Carolina Dieckmann, que teve imagens íntimas vazadas.
-
 [Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
 
 ### Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018)
@@ -34,7 +31,6 @@ Regulamenta o tratamento de dados pessoais, inclusive nos meios digitais, por pe
 
 ### Lei Marco Civil da Internet (Lei nº 12.965/2014)
 Estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil. Define critérios para a manutenção da privacidade dos usuários, impondo obrigações a provedores de serviços de internet e outras empresas que lidam com dados pessoais.
-
 [Lei nº 12.965/2014](https://www.projuris.com.br/blog/marco-civil-da-internet/)
 
 ### Norma
