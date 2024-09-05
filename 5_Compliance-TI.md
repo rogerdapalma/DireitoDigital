@@ -2,6 +2,9 @@
 
 Compliance no contexto de Tecnologia da Informação (TI) refere-se ao conjunto de práticas, políticas e procedimentos adotados por uma organização para garantir que suas operações de TI estejam em conformidade com leis, regulamentos, normas e diretrizes aplicáveis. O objetivo é assegurar que os sistemas e processos de TI sejam geridos de forma ética e segura, evitando riscos legais, financeiros e reputacionais.
 
+#### Resumo:
+##### Compliance em TI é o conjunto de práticas e políticas que garantem que as operações de tecnologia de uma organização estejam em conformidade com leis, regulamentos, normas e diretrizes, assegurando segurança, ética e mitigação de riscos.
+
 ## Principais Aspectos de Compliance em TI
 
 1. **Conformidade Legal e Regulamentar**
